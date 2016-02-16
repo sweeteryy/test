@@ -1,5 +1,5 @@
 
-'''
+
 a = [9, 2, 5, 3, 6, 8, 4]
 
 array = [1, 2, 5, 3, 6, 8, 4]
@@ -21,5 +21,4 @@ test = [x ** 2 for x in range(8) if not x % 2]
 for i in test:
 	print i
 print test
-----------
-'''
+
