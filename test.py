@@ -12,7 +12,7 @@ for i in range(len(array) - 1, 0, -1):
 print array
 
 -----------------------------
-
+--------------
 
 
 test = [x ** 2 for x in range(8) if not x % 2]
